@@ -1,7 +1,7 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
+	"name": "nmkr/basic-starter",
+	"description": "nmkr laravel starter package.",
+	"keywords": ["framework", "laravel", "nmkr", "cms"],
 	"license": "MIT",
 	"type": "project",
 	"require": {
